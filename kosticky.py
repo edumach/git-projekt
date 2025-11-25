@@ -3,6 +3,7 @@ import tkinter
 canvas = tkinter.Canvas()
 canvas.pack()
 
+
 def kostka():
     canvas.create_rectangle(20,20,60,30)
 
